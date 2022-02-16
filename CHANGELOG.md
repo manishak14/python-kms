@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-kms/#history
 
+### [2.11.1](https://github.com/googleapis/python-kms/compare/v2.11.0...v2.11.1) (2022-02-16)
+
+
+### Documentation
+
+* add generated snippets ([#236](https://github.com/googleapis/python-kms/issues/236)) ([314485f](https://github.com/googleapis/python-kms/commit/314485f55904eb9e914380b627d3a80fc65712b3))
+* **samples:** updated var name to avoid shadowing built-in ([#238](https://github.com/googleapis/python-kms/issues/238)) ([5bbf2c3](https://github.com/googleapis/python-kms/commit/5bbf2c36b99c5f547cda5806f803d06cef17c627))
+
 ## [2.11.0](https://github.com/googleapis/python-kms/compare/v2.10.1...v2.11.0) (2022-02-03)
 
 
